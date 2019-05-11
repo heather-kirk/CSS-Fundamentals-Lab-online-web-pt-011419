@@ -9,8 +9,13 @@ header {
 }
 
 a{
- padding: 10px left, 10px right; 
+ padding-left: 10px;
+ padding-right: 10px;
  background-color: grey;
 }
 
+#details {
+  display: block;
+  float: left;
+}
 
