@@ -8,6 +8,9 @@ header {
   margin: auto;
 }
 
-nav {
-  a
+a{
+ padding: 10px left, 10px right; 
+ background-color: grey;
 }
+
+
