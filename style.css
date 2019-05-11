@@ -14,8 +14,9 @@ a{
  background-color: grey;
 }
 
-image {
-  
+figcaption{
+  margin: auto;
+  font-size: ;
 }
 #details {
   display: block;
