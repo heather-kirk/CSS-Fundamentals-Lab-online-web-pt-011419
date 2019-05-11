@@ -16,7 +16,12 @@ a{
 
 figcaption{
   margin: auto;
-  font-size: ;
+  font-size: 12px;
+}
+
+featured-property {
+  width: 800px;
+  margin: auto;
 }
 #details {
   display: block;
